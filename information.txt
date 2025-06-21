@@ -1,0 +1,23 @@
+ Smart Home Firmware Details
+
+ Pins:
+  - LIGHT1_PIN ‚Üí D1
+  - LIGHT2_PIN ‚Üí D2
+  - FAN_PIN    ‚Üí D5
+
+ Wi-Fi:
+  - SSID: Smart_Home
+  - Password: aelab123
+
+ OTA:
+  - Username: admin
+  - Password: (leave blank)
+
+ó Flash Tool:
+  NodeMCU Flasher: https://github.com/nodemcu/nodemcu-flasher
+
+ç Flash Address:
+  0x00000
+
+ Brand: AE Lab
+Developed by Hasan Abir
